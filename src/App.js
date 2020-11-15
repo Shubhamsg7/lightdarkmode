@@ -38,7 +38,7 @@ function App() {
         </nav>
         <div className="content">
           <h1>{dark?"Dark Mode is On" : "Light Mode is On"}</h1>
-          <p>want to see sime magic? press toggle button</p>
+          <p>want to see some magic? press toggle button</p>
         </div>
       </div>
     </>
